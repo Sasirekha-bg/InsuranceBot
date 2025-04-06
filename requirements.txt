@@ -9,3 +9,4 @@ bs4
 langchain-huggingface
 fastapi
 uvicorn
+transformers==4.36.2
